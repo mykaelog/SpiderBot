@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Revisar los valores de los atributos del ensamblado
 
-<Assembly: AssemblyTitle("Spider")> 
+<Assembly: AssemblyTitle("Controls")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("Spider")> 
+<Assembly: AssemblyProduct("Controls")> 
 <Assembly: AssemblyCopyright("Copyright ©  2016")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
 
 'El siguiente GUID sirve como identificador de typelib si este proyecto se expone a COM
-<Assembly: Guid("85edd9d7-b050-4046-b40c-1cb3529a859c")> 
+<Assembly: Guid("99685b55-8d3b-41cb-a3b5-357a8f19f784")> 
 
 ' La información de versión de un ensamblado consta de los cuatro valores siguientes:
 '
@@ -29,7 +29,6 @@ Imports System.Runtime.InteropServices
 '
 ' Puede especificar todos los valores o usar los valores predeterminados de número de compilación y de revisión 
 ' mediante el asterisco ('*'), como se muestra a continuación:
-' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.0.0.0")> 
+<Assembly: AssemblyVersion("1.0.*")> 
 <Assembly: AssemblyFileVersion("1.0.0.0")> 

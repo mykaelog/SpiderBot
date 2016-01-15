@@ -1,4 +1,0 @@
-﻿CREATE TABLE [dbo].[Links]
-(
-	[Id] INT NOT NULL PRIMARY KEY
-)
